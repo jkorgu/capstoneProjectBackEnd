@@ -1,0 +1,60 @@
+Name,Team,App,Mins,ID,Assists,Shots,shotsOnTarget,Goals,xG,npxG,xA,Tackles,Clearances,Interceptions,aerialsWon,Blocks,duelsWon,Passes,accuratePasses,longBalls,Crosses,bigChancesCreated,keyPasses,Position
+E. Valentini,1. FC Nürnberg,14,90,0,1,1.0,0,0,0.0,,0.0,3,2,0,1,0,9,66,56,12,8,2,4,Defender
+S. Jung,Karlsruher SC,31,2712,1,1,26.0,6,2,0.0,,0.0,38,64,22,13,10,64,1047,813,135,106,3,21,Defender
+M. Zimmermann,Fortuna Düsseldorf,33,2221,2,2,24.0,10,3,0.0,,0.0,64,62,24,33,6,126,1212,1023,69,58,3,18,Defender
+T. Kalas,FC Schalke 04,27,1319,3,1,6.0,2,1,0.0,,0.0,16,95,27,62,0,95,699,580,86,9,1,6,Defender
+M. Halstenberg,Hannover 96,28,2492,4,2,26.0,8,3,0.0,,0.0,42,99,37,42,8,110,1536,1303,222,37,2,15,Defender
+M. Franke,Karlsruher SC,30,2587,5,0,17.0,5,3,0.0,,0.0,22,162,24,92,2,129,1481,1314,202,3,0,2,Defender
+B. Saller,SSV Jahn Regensburg,5,332,6,0,2.0,0,0,0.0,,0.0,17,5,5,3,0,22,132,92,42,7,0,1,Defender
+C. Zimmermann,Darmstadt 98,5,1,7,0,,0,0,0.0,,0.0,0,1,0,1,0,1,0,0,0,0,0,0,Defender
+L. Paqarada,1. FC Heidenheim,31,2443,8,6,33.0,3,0,0.0,,0.0,61,74,28,27,13,127,1511,1206,172,258,15,82,Defender
+M. Heyer,Fortuna Düsseldorf,23,1441,9,0,3.0,2,1,0.0,,0.0,35,57,14,8,1,68,523,451,29,13,2,5,Defender
+J. de Wijs,Fortuna Düsseldorf,12,103,10,0,2.0,0,0,0.0,,0.0,1,9,0,4,2,5,52,41,10,0,0,0,Defender
+M. Neubauer,Hannover 96,34,3060,11,7,27.0,9,3,0.0,,0.0,61,93,28,30,5,112,1506,1198,168,197,10,60,Defender
+E. Iyoha,Fortuna Düsseldorf,22,1415,12,0,25.0,8,1,0.0,,0.0,24,39,15,12,5,71,609,486,52,42,2,15,Defender
+M. Muheim,Hamburger SV,30,2667,13,11,24.0,6,1,0.0,,0.0,86,89,31,29,6,173,1794,1510,192,175,15,71,Defender
+R. Ziegele,SSV Jahn Regensburg,31,1444,14,0,10.0,5,1,0.0,,0.0,18,77,16,33,1,69,487,331,142,14,1,5,Defender
+A. Donkor,FC Schalke 04,34,811,15,1,12.0,4,0,0.0,,0.0,13,17,15,10,6,40,382,301,27,32,4,11,Defender
+C. Kobald,Karlsruher SC,25,1318,16,0,6.0,3,2,0.0,,0.0,19,76,11,22,2,55,688,573,114,6,1,4,Defender
+F. Götze,SC Paderborn 07,30,2642,17,2,13.0,4,3,0.0,,0.0,35,133,22,66,1,142,1759,1584,143,6,3,12,Defender
+T. Christopher Oberdorf,Fortuna Düsseldorf,33,2961,18,4,19.0,7,2,0.0,,0.0,59,166,42,45,8,121,1984,1666,275,45,4,13,Defender
+A. Vukotić,Darmstadt 98,32,2847,19,2,35.0,9,3,0.0,,0.0,53,210,31,108,3,204,1767,1483,282,6,5,7,Defender
+R. Schallenberg,FC Schalke 04,31,2630,20,1,17.0,8,3,0.0,,0.0,62,119,57,70,2,159,1562,1376,161,6,1,13,Defender
+B. Tomiak,Hannover 96,29,2181,21,2,18.0,9,4,0.0,,0.0,46,84,26,51,2,132,1253,1081,109,15,2,10,Defender
+S. López,Darmstadt 98,31,2425,22,3,11.0,7,3,0.0,,0.0,44,51,13,10,2,73,1153,967,132,165,6,49,Defender
+P. Pfeiffer,Darmstadt 98,12,276,23,0,2.0,0,0,0.0,,0.0,2,16,4,13,1,18,270,237,32,2,0,0,Defender
+M. Hoffmeier,SC Paderborn 07,29,1385,24,0,10.0,2,0,0.0,,0.0,23,46,9,9,6,65,813,699,114,15,0,8,Defender
+V. Lunddal,Fortuna Düsseldorf,26,1331,25,0,9.0,3,0,0.0,,0.0,13,34,7,14,2,52,553,463,48,35,1,15,Defender
+F. Nürnberger,Darmstadt 98,28,2148,26,1,32.0,10,1,0.0,,0.0,49,24,27,8,11,97,1151,991,103,99,5,39,Defender
+LPL. Perrin,Hamburger SV,13,325,27,0,2.0,0,0,0.0,,0.0,13,14,3,3,0,18,191,164,23,1,0,0,Defender
+D. Elfadli,Hamburger SV,31,2653,28,3,18.0,6,3,0.0,,0.0,44,134,52,52,3,122,1558,1452,76,6,0,15,Defender
+H. Matriciani,FC Schalke 04,1,0,29,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,Defender
+L. Curda,SC Paderborn 07,31,1221,30,0,15.0,6,1,0.0,,0.0,28,50,19,18,1,65,831,668,137,35,1,6,Defender
+M. Beifus,Karlsruher SC,33,2671,31,0,12.0,1,0,0.0,,0.0,36,110,48,54,2,109,1634,1450,235,1,0,2,Defender
+D. Herold,Karlsruher SC,33,2044,32,1,10.0,3,0,0.0,,0.0,54,55,16,34,3,144,800,610,76,157,5,29,Defender
+O. Schönfelder,SSV Jahn Regensburg,5,374,33,0,1.0,0,0,0.0,,0.0,9,20,1,4,0,35,177,125,19,12,0,5,Defender
+E. Uhlmann,Erzgebirge Aue,5,0,34,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,Defender
+A. Gantenbein,FC Schalke 04,25,965,35,2,9.0,2,1,0.0,,0.0,29,30,16,14,2,63,401,323,27,26,4,16,Defender
+K. Schmidt,Fortuna Düsseldorf,1,0,36,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,Defender
+B. Ezeh,Hannover 96,21,554,37,1,3.0,0,0,0.0,,0.0,8,14,10,10,1,28,169,122,12,36,1,9,Defender
+M. Maglica,Darmstadt 98,27,413,38,0,9.0,4,0,0.0,,0.0,13,32,3,14,1,30,261,212,48,2,0,2,Defender
+L. Wallner,F.C. Hansa Rostock,4,0,39,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,Defender
+W. Mikelbrencis,Hamburger SV,28,1666,40,2,17.0,6,0,0.0,,0.0,38,50,12,6,2,70,817,667,91,57,8,22,Defender
+C. Brackelmann,SC Paderborn 07,23,1688,41,0,27.0,7,3,0.0,,0.0,25,123,25,54,6,89,1163,959,217,9,0,6,Defender
+F. Gruber,1. FC Nürnberg,13,660,42,0,3.0,1,1,0.0,,0.0,8,47,9,24,2,35,412,357,37,1,0,1,Defender
+B. Bauer,SSV Jahn Regensburg,7,1,43,0,,0,0,0.0,,0.0,0,0,0,0,0,0,2,1,0,0,0,0,Defender
+T. Lasse Scheller,SC Paderborn 07,32,2291,44,0,14.0,5,1,0.0,,0.0,43,81,14,29,4,107,1385,1230,154,10,0,9,Defender
+V. Becker,FC Schalke 04,1,0,45,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,Defender
+MAM. Ayhan,FC Schalke 04,1,0,46,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,Defender
+N. Oliveira Kisilowski,SSV Jahn Regensburg,6,8,47,0,,0,0,0.0,,0.0,0,0,1,0,0,0,10,10,0,0,0,0,Defender
+TZT. Zobel,Erzgebirge Aue,2,0,48,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,Defender
+EEE. Egouli,Fortuna Düsseldorf,1,0,49,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,Defender
+F. Sánchez,FC Schalke 04,28,383,50,0,4.0,0,0,0.0,,0.0,8,13,11,12,1,27,284,250,41,2,0,0,Defender
+TAT. Arnold,Darmstadt 98,4,0,51,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,Defender
+N. Seidel,SSV Jahn Regensburg,31,415,52,0,4.0,1,0,0.0,,0.0,6,21,5,13,1,23,264,221,34,0,0,0,Defender
+L. Wurm,SSV Jahn Regensburg,24,1777,53,0,12.0,4,1,0.0,,0.0,44,100,31,45,4,114,663,509,127,8,1,6,Defender
+TTT. Toure,FC Schalke 04,1,23,54,0,1.0,0,0,0.0,,0.0,1,0,1,0,0,2,13,11,2,0,0,1,Defender
+KKK. Krumme,SC Paderborn 07,2,1,55,0,,0,0,0.0,,0.0,0,0,0,0,0,0,1,0,0,0,0,0,Defender
+R. Pinto Pedrosa,Karlsruher SC,29,373,56,1,1.0,0,0,0.0,,0.0,13,7,2,4,1,33,97,74,11,8,0,2,Defender
+J. Pauli,SG Dynamo Dresden,21,1213,57,0,6.0,0,0,0.0,,0.0,27,38,16,14,4,51,790,703,57,3,1,2,Defender
+EPE. Porstner,1. FC Nürnberg,2,1,58,0,,0,0,0.0,,0.0,1,0,0,0,0,1,0,0,0,0,0,0,Defender
