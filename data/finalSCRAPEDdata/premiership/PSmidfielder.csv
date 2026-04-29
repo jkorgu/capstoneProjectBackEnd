@@ -1,0 +1,67 @@
+Name,Team,App,Mins,ID,Assists,Shots,shotsOnTarget,Goals,xG,npxG,xA,Tackles,Clearances,Interceptions,aerialsWon,Blocks,duelsWon,Passes,accuratePasses,longBalls,Crosses,bigChancesCreated,keyPasses,Position
+A. Halliday,Motherwell,35,2393,2921,2,22.0,9,3,0.0,,0.0,33,33,16,34,6,125,861,662,95,83,4,19,Midfielder
+G. Shinnie,Aberdeen,34,2580,2922,3,17.0,3,1,0.0,,0.0,97,66,17,49,6,229,1469,1230,135,62,6,21,Midfielder
+J. Forrest,Celtic,20,804,2923,5,33.0,9,1,0.0,,0.0,10,4,3,1,17,28,469,415,6,41,5,25,Midfielder
+C. McGregor,Celtic,32,2661,2924,2,36.0,10,8,0.0,,0.0,32,41,22,12,14,89,2553,2402,65,9,5,29,Midfielder
+J. Holt,St. Johnstone,28,1926,2925,0,9.0,1,0,0.0,,0.0,43,41,16,14,2,107,1067,908,55,17,2,10,Midfielder
+J. Newell,Hibernian,17,1293,2926,0,14.0,2,2,0.0,,0.0,17,38,9,16,0,60,501,388,90,38,0,15,Midfielder
+C. Sibbald,Dundee United,13,890,2927,1,7.0,4,1,0.0,,0.0,31,21,10,6,3,43,256,187,42,6,0,7,Midfielder
+D. John,St. Mirren,21,1054,2928,0,9.0,3,2,0.0,,0.0,16,27,4,7,5,34,300,211,54,69,5,14,Midfielder
+LDL. Donnelly,St. Mirren,26,1197,2929,1,23.0,5,0,0.0,,0.0,40,29,11,26,11,91,410,313,90,10,2,10,Midfielder
+M. O'Hara,St. Mirren,30,2444,2930,2,31.0,12,3,0.0,,0.0,48,23,19,42,13,127,815,612,93,110,4,28,Midfielder
+S. Nicholson,Motherwell,12,252,2931,0,2.0,0,0,0.0,,0.0,6,8,4,8,0,20,59,41,5,8,1,2,Midfielder
+S. Tanser,St. Mirren,31,1686,2932,1,15.0,2,1,0.0,,0.0,38,69,23,72,7,130,539,285,98,125,7,26,Midfielder
+N. Cadden,Hibernian,27,1657,2933,6,38.0,17,5,0.0,,0.0,19,57,8,14,11,67,527,408,80,207,11,45,Midfielder
+C. Cadden,Hibernian,32,2086,2934,1,12.0,5,0,0.0,,0.0,29,69,16,24,3,74,642,468,86,95,3,17,Midfielder
+S. Wright,Dundee FC,2,133,2935,0,4.0,2,0,0.0,,0.0,0,0,1,1,2,5,35,26,1,3,1,1,Midfielder
+C. Randall,Ross County,34,2988,2936,0,31.0,10,1,0.0,,0.0,91,105,44,47,9,185,910,568,252,46,0,15,Midfielder
+J. McGrath,Hibernian,23,1662,2937,6,35.0,8,4,0.0,,0.0,43,27,11,26,9,124,598,457,48,88,6,42,Midfielder
+N. Bajrami,Rangers,30,1331,2938,1,47.0,17,2,0.0,,0.0,15,8,10,6,20,52,648,536,42,38,4,27,Midfielder
+J. Svedberg,St. Johnstone,8,328,2939,1,2.0,1,0,0.0,,0.0,3,4,1,6,0,10,139,115,11,7,2,5,Midfielder
+R. Docherty,Ross County,22,1143,2940,0,18.0,4,0,0.0,,0.0,26,47,11,31,7,85,398,284,81,6,0,7,Midfielder
+A. Forrest,Heart of Midlothian,35,940,2941,1,25.0,10,2,0.0,,0.0,17,7,9,4,13,37,305,244,29,44,4,14,Midfielder
+R. Strain,Dundee United,27,2063,2942,4,13.0,3,0,0.0,,0.0,46,107,16,28,5,113,809,592,135,135,9,31,Midfielder
+A. Manneh,Hibernian,8,86,2943,0,,0,0,0.0,,0.0,1,2,2,0,0,2,38,30,5,1,0,0,Midfielder
+W. Ferry,Dundee United,32,2876,2944,4,17.0,3,0,0.0,,0.0,79,123,43,44,5,193,1084,746,272,208,6,56,Midfielder
+N. Raskin,Rangers,30,2368,2945,7,37.0,14,3,0.0,,0.0,84,43,20,57,11,191,1641,1425,147,23,7,33,Midfielder
+R. Hatate,Celtic,34,2161,2946,4,68.0,19,9,0.0,,0.0,30,31,7,16,17,88,1516,1245,110,44,11,37,Midfielder
+E. Bwomono,Aberdeen,30,1531,2947,2,8.0,1,0,0.0,,0.0,30,38,11,24,5,75,385,251,77,44,2,14,Midfielder
+A. Palaversa,Aberdeen,32,1640,2948,1,19.0,6,2,0.0,,0.0,48,48,16,33,6,104,1206,982,149,85,2,25,Midfielder
+B. Baningime,Heart of Midlothian,25,1928,2949,2,4.0,0,0,0.0,,0.0,77,20,27,23,2,135,751,651,31,1,2,9,Midfielder
+C. Slattery,Motherwell,13,785,2950,1,23.0,7,5,0.0,,0.0,13,4,4,10,6,66,304,248,17,19,1,9,Midfielder
+Y. Dhanda,Dundee FC,31,797,2951,1,15.0,0,0,0.0,,0.0,13,4,2,6,7,45,349,279,39,88,3,12,Midfielder
+T. Elie Youan,Hibernian,17,907,2952,1,27.0,8,2,0.0,,0.0,8,3,4,20,7,57,259,202,2,13,2,11,Midfielder
+L. McCowan,Celtic,35,1554,2953,8,52.0,21,8,0.0,,0.0,30,15,10,10,14,87,1015,851,56,73,10,46,Midfielder
+K. Trapanovski,Dundee United,29,1204,2954,2,43.0,13,2,0.0,,0.0,17,11,2,11,21,58,198,143,22,47,3,8,Midfielder
+M. Sylla,Livingston,34,2577,2955,0,12.0,1,0,0.0,,0.0,90,84,53,68,5,228,731,527,86,5,0,9,Midfielder
+C. Devlin,Heart of Midlothian,29,1865,2956,1,12.0,5,0,0.0,,0.0,94,33,41,19,5,172,1118,958,88,15,1,15,Midfielder
+N. Chilvers,Ross County,31,1997,2957,5,46.0,14,3,0.0,,0.0,51,15,9,21,15,132,652,458,89,132,5,33,Midfielder
+V. Ševelj,Dundee United,32,2631,2958,3,24.0,7,2,0.0,,0.0,89,133,38,59,12,188,939,684,144,29,3,16,Midfielder
+J. Campbell,Hibernian,33,1740,2959,1,34.0,8,4,0.0,,0.0,17,33,16,66,14,114,558,379,48,17,3,13,Midfielder
+O. Thiago Holm,Celtic,3,24,2960,0,,0,0,0.0,,0.0,1,1,1,0,0,2,17,12,1,0,0,1,Midfielder
+R. Idowu,St. Mirren,31,1120,2961,1,23.0,10,4,0.0,,0.0,33,15,5,13,7,82,244,182,26,36,2,13,Midfielder
+P. Bernardo,Celtic,30,1201,2962,3,25.0,6,2,0.0,,0.0,46,9,7,13,12,77,782,692,37,72,5,30,Midfielder
+F. Robertson,Dundee FC,33,1527,2963,4,13.0,3,0,0.0,,0.0,29,37,2,17,4,63,524,376,95,109,3,24,Midfielder
+L. Cameron,Rangers,30,2490,2964,5,48.0,17,7,0.0,,0.0,35,36,22,16,18,113,1168,882,178,140,6,44,Midfielder
+J. Mulligan,Hibernian,33,2393,2965,5,23.0,5,0,0.0,,0.0,58,50,17,41,13,159,751,562,47,53,7,29,Midfielder
+J. McPake,St. Johnstone,29,297,2966,0,10.0,4,1,0.0,,0.0,10,4,0,3,1,34,92,80,4,8,0,6,Midfielder
+C. Reilly,Dundee FC,8,56,2967,1,3.0,1,0,0.0,,0.0,4,2,0,4,1,9,25,18,1,2,1,1,Midfielder
+JRJ. Reid,Ross County,20,239,2968,0,1.0,0,0,0.0,,0.0,6,14,4,4,1,12,87,64,16,12,0,3,Midfielder
+C. Nieuwenhof,Heart of Midlothian,11,314,2969,0,5.0,3,1,0.0,,0.0,8,7,5,13,1,29,162,133,13,8,0,0,Midfielder
+C. Barron,Rangers,30,1761,2970,0,8.0,1,0,0.0,,0.0,53,28,15,10,3,84,1164,1046,80,16,0,21,Midfielder
+A. Engels,Celtic,32,1924,2971,5,61.0,19,9,0.0,,0.0,24,20,4,15,19,77,1213,1028,66,183,11,50,Midfielder
+M. Diomande,Rangers,34,2393,2972,5,48.0,10,4,0.0,,0.0,38,23,18,19,22,137,1237,1074,94,21,9,36,Midfielder
+T. Keskinen,Aberdeen,33,2225,2973,2,51.0,11,5,0.0,,0.0,33,15,4,8,27,98,404,296,26,57,8,23,Midfielder
+B. Spittal,Heart of Midlothian,33,2245,2974,3,52.0,14,4,0.0,,0.0,26,33,11,51,19,107,1236,931,156,176,10,51,Midfielder
+K. Fotheringham,St. Johnstone,31,671,2975,0,8.0,2,0,0.0,,0.0,14,23,8,15,3,43,139,89,13,12,0,2,Midfielder
+RDR. Duncan,Ross County,2,0,2976,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder
+FPF. Pollock,Heart of Midlothian,1,0,2977,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder
+A. Denholm,Livingston,16,689,2978,1,8.0,2,0,0.0,,0.0,9,17,6,8,4,37,221,165,27,15,1,9,Midfielder
+M. Tait,Heart of Midlothian,7,0,2979,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder
+R. Allan Molotnikov,Hibernian,23,477,2980,0,7.0,1,0,0.0,,0.0,8,1,0,4,2,30,96,79,3,6,0,2,Midfielder
+JWJ. Williamson,Ross County,1,0,2981,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder
+K. Andrews,Hibernian,14,470,2982,0,3.0,0,0,0.0,,0.0,11,3,2,4,2,21,187,152,14,0,0,1,Midfielder
+F. Franczak,St. Johnstone,28,368,2983,0,2.0,0,0,0.0,,0.0,11,11,3,4,0,23,102,84,4,10,0,3,Midfielder
+CDC. Donovan,Celtic,1,0,2984,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder
+B. Rice,Rangers,13,107,2985,0,2.0,1,0,0.0,,0.0,4,1,0,5,1,10,80,66,9,0,0,0,Midfielder
+V. Enem,Aberdeen,5,0,2986,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,Midfielder

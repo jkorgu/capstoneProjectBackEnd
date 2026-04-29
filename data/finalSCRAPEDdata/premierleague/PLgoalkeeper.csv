@@ -1,0 +1,36 @@
+Name,Team,App,Mins,ID,Assists,Shots,shotsOnTarget,Goals,xG,npxG,xA,Tackles,Clearances,Interceptions,aerialsWon,Blocks,duelsWon,Passes,accuratePasses,longBalls,Crosses,bigChancesCreated,keyPasses,Saves,Position
+J. Ruddy,Newcastle United,8,0,2664,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+A. Begović,Leicester City,18,0,2665,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+T. Heaton,Manchester United,8,0,2666,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+J. Steele,Brighton & Hove Albion,26,180,2667,0,,0,0,0.0,,0.0,0,3,0,1,0,2,105,94,23,0,0,0,3,Goalkeeper
+M. Dúbravka,Burnley,34,900,2668,0,,0,0,0.0,,0.0,0,5,0,4,0,5,278,211,96,0,0,0,29,Goalkeeper
+A. McCarthy,Southampton,38,450,2669,0,,0,0,0.0,,0.0,0,3,0,2,0,3,126,88,58,0,0,0,24,Goalkeeper
+A. Aréola,West Ham United,34,2259,2670,0,,0,0,0.0,,0.0,2,25,0,2,0,4,865,572,438,0,0,0,82,Goalkeeper
+S. Johnstone,Wolverhampton,25,630,2671,0,,0,0,0.0,,0.0,0,9,0,4,0,4,249,156,149,0,0,1,23,Goalkeeper
+D. Bentley,Wolverhampton,18,180,2672,0,,0,0,0.0,,0.0,0,3,0,2,0,2,59,43,25,0,0,0,8,Goalkeeper
+J. Pickford,Everton,38,3420,2673,1,,0,0,0.0,,0.1793,1,52,1,8,0,13,1425,899,886,0,1,2,122,Goalkeeper
+E. Martínez,Aston Villa,37,3196,2674,0,,0,0,0.0,,0.0147,3,20,0,11,0,20,1248,961,476,0,1,2,100,Goalkeeper
+N. Pope,Newcastle United,31,2520,2675,0,,0,0,0.0,,0.0,0,53,1,14,0,16,590,385,279,0,0,1,88,Goalkeeper
+K. Arrizabalaga,Arsenal,32,2790,2676,0,1.0,0,0,0.061,,0.0204,1,36,0,8,0,15,901,634,436,0,0,1,97,Goalkeeper
+Alisson,Liverpool,28,2509,2677,0,,0,0,0.0,,0.2008,1,31,0,7,0,11,829,669,240,0,1,1,78,Goalkeeper
+J. Sá,Wolverhampton,33,2609,2678,0,,0,0,0.0,,0.0069,2,25,0,13,0,30,800,474,436,0,0,3,71,Goalkeeper
+M. Bettinelli,Manchester City,5,0,2679,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+G. Vicario,Tottenham Hotspur,26,2160,2680,0,,0,0,0.0,,0.0,0,33,1,10,0,12,754,648,142,0,0,0,68,Goalkeeper
+D. Raya,Arsenal,38,3420,2681,0,,0,0,0.0,,0.0257,0,29,2,14,0,24,1232,870,519,0,0,1,86,Goalkeeper
+R. Matthews,Crystal Palace,7,0,2682,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+T. King,Everton,3,1,2683,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+D. Henderson,Crystal Palace,38,3420,2684,0,1.0,0,0,0.0149,,0.0126,2,40,0,13,0,15,1100,631,637,0,0,3,104,Goalkeeper
+A. Bayındır,Manchester United,31,360,2685,0,,0,0,0.0,,0.0,0,14,0,1,0,2,140,80,77,0,0,0,8,Goalkeeper
+A. Whiteman,Tottenham Hotspur,1,0,2686,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+C. Kelleher,Brentford,37,900,2687,0,,0,0,0.0,,0.0,0,3,0,2,0,5,333,240,125,0,0,0,27,Goalkeeper
+A. Ramsdale,Newcastle United,32,2700,2688,0,,0,0,0.0,,0.0277,0,28,2,8,0,11,1087,646,655,0,0,0,125,Goalkeeper
+M. Hermansen,West Ham United,27,2385,2689,0,,0,0,0.0,,0.0164,1,33,0,4,0,9,936,526,537,0,0,0,103,Goalkeeper
+B. Austin,Tottenham Hotspur,13,90,2690,0,,0,0,0.0,,0.0,0,1,0,4,0,4,27,18,13,0,0,0,2,Goalkeeper
+R. Sánchez,Chelsea,38,2880,2691,0,,0,0,0.0,,0.0148,0,36,2,12,0,16,1052,687,487,0,0,2,95,Goalkeeper
+F. Jørgensen,Chelsea,37,540,2692,0,,0,0,0.0,,0.0,0,0,0,1,0,1,170,140,40,0,0,0,20,Goalkeeper
+J. Gauci,Aston Villa,10,0,2693,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+B. Verbruggen,Brighton & Hove Albion,36,3240,2694,1,,0,0,0.0,,0.0072,0,46,0,10,0,14,1187,891,472,0,0,1,91,Goalkeeper
+J. Stolarczyk,Leicester City,21,900,2695,0,,0,0,0.0,,0.0,2,16,0,5,0,7,350,203,210,0,0,0,28,Goalkeeper
+H. Rafn Valdimarsson,Brentford,38,144,2696,0,,0,0,0.0,,0.0,0,3,0,1,0,1,63,39,42,0,0,0,3,Goalkeeper
+A. Kinský,Tottenham Hotspur,18,540,2697,0,,0,0,0.0,,0.0059,3,15,0,2,0,5,179,130,71,0,1,1,24,Goalkeeper
+JEJ. Eyestone,Brentford,1,0,2698,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
