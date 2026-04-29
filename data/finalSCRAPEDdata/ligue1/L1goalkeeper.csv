@@ -1,0 +1,27 @@
+Name,Team,App,Mins,ID,Assists,Shots,shotsOnTarget,Goals,xG,npxG,xA,Tackles,Clearances,Interceptions,aerialsWon,Blocks,duelsWon,Passes,accuratePasses,longBalls,Crosses,bigChancesCreated,keyPasses,Saves,Position
+L. Butelle,Stade de Reims,3,0,2231,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+S. Mandanda,Stade Rennais,34,1486,2232,0,,0,0,0.0,,0.007,0,9,0,1,0,4,433,288,222,0,0,2,30,Goalkeeper
+K. Johnsson,RC Strasbourg,33,270,2233,0,,0,0,0.0,,0.0,0,6,0,1,0,1,108,86,28,0,0,0,16,Goalkeeper
+A. Lopes,Nantes,20,1564,2234,0,,0,0,0.0,,0.0,1,14,1,5,0,10,491,300,306,0,0,0,47,Goalkeeper
+B. Maubleu,Saint-Étienne,30,0,2235,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+M. Dupé,Nice,32,0,2236,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+G. Rulli,Olympique de Marseille,34,3060,2237,0,,0,0,0.0,,0.0,4,33,1,10,0,22,1069,929,270,0,0,2,92,Goalkeeper
+P. Carlgren,Nantes,31,416,2238,0,,0,0,0.0,,0.0,0,3,0,0,0,1,109,66,68,0,0,0,21,Goalkeeper
+B. Samba,Stade Rennais,32,2879,2239,0,,0,0,0.0,,0.0474,2,23,1,5,0,11,1057,816,429,0,0,0,100,Goalkeeper
+M. Caillard,Lille,3,0,2240,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+R. Descamps,Olympique Lyonnais,30,90,2241,0,,0,0,0.0,,0.0,0,2,0,0,0,0,28,25,6,0,0,0,4,Goalkeeper
+M. Safonov,Paris Saint-Germain,33,878,2242,0,,0,0,0.0,,0.0,0,5,1,0,0,1,264,204,105,0,0,0,17,Goalkeeper
+J. de Lange,Olympique de Marseille,32,0,2243,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+G. Larsonneur,Saint-Étienne,33,2970,2244,0,,0,0,0.0,,0.0174,1,41,0,12,0,21,1038,638,551,0,0,1,132,Goalkeeper
+A. Olliero,Stade de Reims,32,0,2245,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+Y. Diouf,Nice,36,3270,2246,0,1.0,1,0,0.0572,0.057,0.0,2,36,1,9,0,13,1124,737,591,0,0,0,138,Goalkeeper
+R. Majecki,Stade Brestois,26,1342,2247,0,,0,0,0.0,,0.0103,0,11,0,5,0,6,328,227,136,0,0,0,43,Goalkeeper
+H. Koffi,Angers,25,438,2248,0,,0,0,0.0,,0.0,1,7,0,1,0,2,108,74,51,0,0,0,17,Goalkeeper
+P. Köhn,AS Monaco,34,1710,2249,0,,0,0,0.0,,0.0,0,15,0,3,0,4,476,344,210,0,0,0,46,Goalkeeper
+G. Coudert,Stade Brestois,34,180,2250,0,,0,0,0.0,,0.0,0,1,0,0,0,0,61,47,21,0,0,0,9,Goalkeeper
+M. Zinga,Angers,31,90,2251,0,,0,0,0.0,,0.0,0,2,0,0,0,0,29,17,16,0,0,0,2,Goalkeeper
+L. Chevalier,Paris Saint-Germain,34,3060,2252,0,,0,0,0.0,,0.19,3,19,0,7,0,16,936,722,365,0,2,3,96,Goalkeeper
+Y. Lienard,AS Monaco,8,0,2253,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+E. Jaouen,Stade de Reims,2,180,2254,0,,0,0,0.0,,0.0,0,3,0,0,0,0,88,55,42,0,0,1,6,Goalkeeper
+R. Risser,RC Lens,3,0,2255,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+N. Jauny,Stade Brestois,3,0,2256,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
