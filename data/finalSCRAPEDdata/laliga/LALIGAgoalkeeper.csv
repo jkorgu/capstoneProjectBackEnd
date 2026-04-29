@@ -1,0 +1,37 @@
+Name,Team,App,Mins,ID,Assists,Shots,shotsOnTarget,Goals,xG,npxG,xA,Tackles,Clearances,Interceptions,aerialsWon,Blocks,duelsWon,Passes,accuratePasses,longBalls,Crosses,bigChancesCreated,keyPasses,Saves,Position
+I. Cuéllar,Mallorca,26,0,1301,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+Ø. Nyland,Sevilla,34,2674,1302,0,,0,0,0.0,,0.044,3,24,0,9,0,12,887,525,501,0,2,4,74,Goalkeeper
+W. Szczęsny,Barcelona,29,1350,1303,0,,0,0,0.0,,0.0,1,23,0,1,0,3,391,342,81,0,0,0,21,Goalkeeper
+Adrián,Real Betis,38,1710,1304,0,,0,0,0.0,,0.0,0,30,0,4,0,6,525,385,234,0,0,0,50,Goalkeeper
+J. Oblak,Atlético Madrid,36,3240,1305,0,,0,0,0.0,,0.0,0,25,0,4,0,7,764,583,321,0,0,0,86,Goalkeeper
+T. Courtois,Real Madrid,32,2700,1306,0,,0,0,0.0,,0.0067,0,24,1,9,0,10,846,679,243,0,1,1,77,Goalkeeper
+M. Dmitrović,Espanyol,38,2880,1307,0,,0,0,0.0,,0.0272,1,48,0,15,0,21,933,358,782,0,0,1,104,Goalkeeper
+S. Dimitrievski,Valencia,38,360,1308,0,,0,0,0.0,,0.0,0,5,0,0,0,0,108,43,80,0,0,0,6,Goalkeeper
+A. Fernández,Osasuna,36,90,1309,0,,0,0,0.0,,0.0,0,2,0,0,0,0,41,25,35,0,0,0,5,Goalkeeper
+R. Silva,Real Betis,15,1350,1310,0,,0,0,0.0,,0.024,0,8,0,2,0,4,452,342,164,0,0,2,37,Goalkeeper
+S. Herrera,Osasuna,37,3330,1311,0,,0,0,0.0,,0.0348,2,39,0,5,0,13,1102,733,678,0,0,0,132,Goalkeeper
+A. Sivera,Deportivo Alavés,32,2812,1312,0,,0,0,0.0,,0.0993,2,38,0,6,0,12,894,457,747,0,0,1,76,Goalkeeper
+P. López,Real Betis,17,45,1313,0,,0,0,0.0,,0.0516,0,1,0,1,0,1,22,16,10,0,0,0,1,Goalkeeper
+D. Soria,Getafe,38,3420,1314,0,,0,0,0.0,,0.0829,4,39,1,7,0,12,956,447,826,0,0,0,90,Goalkeeper
+Á. Remiro,Real Sociedad,38,3240,1315,0,,0,0,0.0,,0.0,1,33,0,8,0,12,1176,847,545,0,0,1,88,Goalkeeper
+I. Peña,Elche,38,1395,1316,0,,0,0,0.0,,0.0,0,27,0,1,0,1,550,482,111,0,0,0,36,Goalkeeper
+U. Simón,Athletic Club,25,1890,1317,0,,0,0,0.0,,0.0242,0,18,1,6,0,9,559,367,315,0,0,0,48,Goalkeeper
+J. Letáček,Getafe,37,0,1318,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+I. Villar,Celta Vigo,38,360,1319,0,,0,0,0.0,,0.0,0,5,0,1,0,1,102,80,25,0,0,0,11,Goalkeeper
+A. Lunin,Real Madrid,36,630,1320,1,,0,0,0.0,,0.0,1,8,0,2,0,4,171,145,52,0,1,1,13,Goalkeeper
+M. Vidal,Celta Vigo,7,0,1321,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+J. García,Barcelona,38,3420,1322,0,1.0,1,0,0.0741,0.074,0.019,0,39,0,23,0,28,1059,709,575,0,0,0,145,Goalkeeper
+D. Conde,Villarreal,33,1963,1323,1,,0,0,0.0,,0.0,2,17,1,2,0,4,528,409,199,0,1,2,63,Goalkeeper
+D. Cárdenas,Rayo Vallecano,38,540,1324,0,,0,0,0.0,,0.0053,0,5,0,1,0,1,157,73,110,0,0,0,14,Goalkeeper
+J. Agirrezabala,Valencia,36,1207,1325,0,,0,0,0.0,,0.0,0,11,0,5,0,6,356,231,194,0,0,0,25,Goalkeeper
+AIA. Iturbe,Elche,1,0,1326,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+L. Júnior,Villarreal,37,1457,1327,0,,0,0,0.0,,0.0,0,34,0,7,0,12,395,263,206,0,0,0,51,Goalkeeper
+A. Fortuno,Espanyol,36,0,1328,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+U. Marrero,Real Sociedad,36,180,1329,0,,0,0,0.0,,0.0,0,2,0,0,0,0,45,35,18,0,0,0,9,Goalkeeper
+L. Román,Mallorca,38,630,1330,0,,0,0,0.0,,0.0072,0,9,0,1,0,2,222,119,164,0,0,0,40,Goalkeeper
+A. Astralaga,Granada,16,0,1331,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+A. Padilla,Athletic Club,13,328,1332,0,,0,0,0.0,,0.006,0,3,0,1,0,2,105,52,82,0,0,0,12,Goalkeeper
+D. Kochen,Barcelona,16,0,1333,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+G. Fernandes,Real Betis,10,0,1334,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+RFR. Fernández,Osasuna,1,0,1335,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+G. Swiderski,Deportivo Alavés,3,0,1336,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper

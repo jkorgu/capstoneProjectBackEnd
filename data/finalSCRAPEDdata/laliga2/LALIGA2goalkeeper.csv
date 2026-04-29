@@ -1,0 +1,25 @@
+Name,Team,App,Mins,ID,Assists,Shots,shotsOnTarget,Goals,xG,npxG,xA,Tackles,Clearances,Interceptions,aerialsWon,Blocks,duelsWon,Passes,accuratePasses,longBalls,Crosses,bigChancesCreated,keyPasses,Saves,Position
+A. Fernández,Almería,42,3690,1607,0,,0,0,0.0,,0.0,0,51,0,7,0,13,1068,718,556,0,1,1,101,Goalkeeper
+A. Herrero,Málaga,42,3690,1608,0,,0,0,0.0,,0.0,1,40,0,12,0,21,1298,814,752,0,1,6,146,Goalkeeper
+D. Jiménez,Huesca,34,2858,1609,0,,0,0,0.0,,0.0,0,23,0,5,0,9,1017,557,726,0,0,2,103,Goalkeeper
+R. Yáñez,Sporting Gijón,40,3488,1610,0,,0,0,0.0,,0.0,3,41,0,14,0,26,1087,573,704,0,0,1,123,Goalkeeper
+F. Martínez,Almería,42,1440,1611,0,,0,0,0.0,,0.0,0,17,0,4,0,4,473,334,248,0,0,0,47,Goalkeeper
+A. Cantero,Burgos Club de Fútbol,42,3780,1612,0,,0,0,0.0,,0.0,2,38,0,12,0,17,1131,662,722,0,0,1,105,Goalkeeper
+M. Martínez,CD Lugo,33,360,1613,0,,0,0,0.0,,0.0,0,2,0,1,0,1,108,80,42,0,0,0,8,Goalkeeper
+J. Pérez,Huesca,39,739,1614,0,,0,0,0.0,,0.0,0,5,0,0,0,0,211,134,121,0,0,0,17,Goalkeeper
+T. Nadal,Burgos Club de Fútbol,40,450,1615,0,,0,0,0.0,,0.0,0,5,0,1,0,2,117,65,75,0,0,0,7,Goalkeeper
+A. Escandell,Real Oviedo,45,3978,1616,0,,0,0,0.0,,0.0,1,63,0,18,0,26,1465,1064,726,0,0,4,115,Goalkeeper
+J. Antonio Caro,Las Palmas,42,413,1617,0,,0,0,0.0,,0.0,0,5,0,1,0,2,129,90,67,0,0,0,16,Goalkeeper
+JRJ. Ruiz,Burgos Club de Fútbol,42,3150,1618,0,,0,0,0.0,,0.0,0,41,0,12,0,15,1024,677,543,0,0,1,104,Goalkeeper
+D. Martín,CD Tenerife,41,1966,1619,0,,0,0,0.0,,0.0,0,15,0,7,0,9,627,303,471,0,0,0,69,Goalkeeper
+M. San Román,Leganés,42,270,1620,0,,0,0,0.0,,0.0,0,2,0,0,0,0,116,77,57,0,0,0,6,Goalkeeper
+C. Sanchez,Sporting Gijón,42,290,1621,0,,0,0,0.0,,0.0,0,6,0,1,0,1,88,57,54,0,0,0,12,Goalkeeper
+J. Mikel Magunagoitia,Eibar,37,2880,1622,0,1.0,1,1,0.0,,0.0,3,31,0,7,0,13,1009,625,644,0,0,2,87,Goalkeeper
+L. López,Eibar,45,0,1623,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+CCC. Calavia,Real Zaragoza,6,0,1624,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+AAA. Aceves Catalina,Real Valladolid,12,59,1625,0,,0,0,0.0,,0.0,0,0,0,1,0,1,22,6,18,0,0,0,1,Goalkeeper
+B. Iribarne,Almería,21,0,1626,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+C. Lopez,Málaga,42,90,1627,0,,0,0,0.0,,0.0,0,0,0,0,0,0,21,14,11,0,0,0,4,Goalkeeper
+J. Reyes,FC Cartagena,34,180,1628,0,,0,0,0.0,,0.0,0,3,0,1,0,3,57,37,37,0,0,0,8,Goalkeeper
+DGD. González,Burgos Club de Fútbol,3,0,1629,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
+GLG. Lozano,CD Tenerife,3,0,1630,0,,0,0,0.0,,0.0,0,0,0,0,0,0,0,0,0,0,0,0,0,Goalkeeper
