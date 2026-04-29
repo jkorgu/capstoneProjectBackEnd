@@ -9,7 +9,7 @@ all .ipynb files
   - finalSCRAPEDdata = All the data used in the project is stored here
   - notNeededData = Remnants of useless data picked up by the web scraper
  
--finalSCRAPEDdata/
+- finalSCRAPEDdata/
   - 2bundesliga  = 2nd division German league
   - bundesliga  = 1st division German league 
   - championship = 2nd division English league
